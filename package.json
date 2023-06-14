@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ngoquangvy/dtdd/issues"
   },
-  "homepage": "https://github.com/ngoquangvy/dtdd#readme"
+  "homepage": "https://github.com/ngoquangvy/dtdd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
